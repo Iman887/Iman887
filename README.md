@@ -9,7 +9,7 @@ I am a third year student at Universitas Wijaya Kusuma Surabaya, majoring in Inf
 
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/friskaam">
+  <a href="https://github.com/iman887">
     <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iman887&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iman887&layout=compact&langs_count=8&theme=algolia"/>
   </a>
