@@ -5,7 +5,6 @@ I am a third year student at Universitas Wijaya Kusuma Surabaya, majoring in Inf
 - 🌱 I’m currently learning Backend development & Mobile development
 - 👯 Very looking to collaborate on any projects
 - 🔭 I’m currently studying at Universitas Wijaya Kusuma Surabaya majoring in Informatics
-- ⚡ Fun fact: I love music🎶
 
 
 <div style="display: flex; align-items: center;">
